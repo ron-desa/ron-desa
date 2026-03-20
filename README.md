@@ -1,71 +1,78 @@
-# Hey, I'm Rounak 👋
+# Hey, I'm Rounak 👋  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
 
 Building things at the intersection of **Machine Learning, Deepfakes, and Medical Imaging**  
 
 ---
 
-## What I'm Currently Doing
+## 🧠 What I'm Doing
 
-- 🧠 Working as **Project Associate @ IISER Bhopal**
-- 🔍 Building systems for **Deepfake Detection in Indic Languages**
-- 🩻 Training models on **MRI scans for lumbar spine degeneration (RSNA)**
+- Project Associate @ **IISER Bhopal**  
+- Working on **Deepfake Detection (Indic Languages)**  
+- Building models for **MRI Spine Degeneration (RSNA)**  
 
 ---
 
-## Stuff I Care About
+## ⚡ What I Care About
 
-- Making ML models actually **work in the real world**
-- Understanding **why models fail**
+- Making ML models **actually work in the real world**
+- Understanding **failure modes**
 - Working with **messy, multimodal data**
-- Building systems, not just notebooks
+- Building systems > toy notebooks  
 
 ---
 
-## A Few Things I've Built
+## 🚀 Projects
 
-### 🧬 Deepfake Detection (Indic Languages)
-- Studying linguistic drift in generated text  
-- Evaluating robustness across languages  
-- Breaking models to understand them  
+### 🧬 Deepfake Detection
+- Linguistic drift analysis across languages  
+- Robustness & generalization experiments  
 
-### 🩻 MRI Classification Pipeline (RSNA)
-- Multi-task model (~25 outputs)  
+### 🩻 MRI Classification
 - ~78% accuracy | Macro F1 ~0.41  
-- Modular pipeline → extendable to multimodal setups  
+- Multi-task pipeline (~25 outputs)  
 
 ### 🎥 Emotion-aware Video Analysis
-- Timeline-based emotion visualization  
-- Multimodal dataset (user signals + video)  
+- Timeline visualization using multimodal signals  
 
-### ⚡ Multimodal Sensor Alignment
-- Syncing physiological + behavioral data streams  
-- Preparing real-world messy data for ML  
+### ⚡ Sensor Alignment System
+- Syncing physiological + behavioral data  
 
 ---
 
-## Tech I Use
+## 🛠️ Tech Stack
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn`  
-`Linux` `Git` `Flask`  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,linux,git,flask" />
+</p>
 
 ---
 
-## What I'm Moving Towards
+## 🎯 Where I'm Heading
 
-- Research in **Multimodal Learning & Generative Models**  
+- Multimodal Learning  
+- Generative Models  
 - PhD in AI/ML (Europe)  
-- Systems that combine **human signals + machine intelligence**  
 
 ---
 
-## Let's Connect
+## 📄 Resume
 
-- 📫 Email: raunakmukho@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/rounak-mukhopadhyay/  
+👉 [View My CV](https://your-link-here.com)
 
 ---
 
-## Stats (because GitHub likes them)
+## 📫 Connect
+
+- Email: rounakmukho@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rounak-mukhopadhyay/  
+
+---
+
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ron-desa&show_icons=true" />
