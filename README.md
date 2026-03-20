@@ -1,20 +1,24 @@
+<table>
+<tr>
+<td>
+
 # Hey, I'm Rounak 👋  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
-Building things at the intersection of **Machine Learning, Deepfakes, and Medical Imaging**  
-
----
+Building things at the intersection of **Machine Learning, Deepfakes, and Medical Imaging**
 
 ## 🧠 What I'm Doing
 
-- Project Associate I @ **IISER Bhopal**  
-- Working on **Deepfake Detection (Indic Languages)**  
-- Building models for **MRI Spine Degeneration (RSNA)**  
+- 🧠 Project Associate @ IISER Bhopal  
+- 🔍 Deepfake Detection (Indic Languages)  
+- 🩻 MRI Classification (RSNA)  
 
----
+</td>
+
+<td>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</td>
+</tr>
+</table>
 
 ## ⚡ What I Care About
 
