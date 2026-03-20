@@ -69,7 +69,7 @@ Building things at the intersection of **Machine Learning, Deepfakes, and Medica
 
 ## 📄 Resume
 
-👉 [View My CV](https://your-link-here.com)
+👉 [View My CV](https://drive.google.com/file/d/1frFKMozR_BewDCorF_bCOBoA_rxU-Smh/view?usp=drive_link)
 
 ---
 
@@ -77,6 +77,7 @@ Building things at the intersection of **Machine Learning, Deepfakes, and Medica
 
 - Email: rounakmukho@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/rounak-mukhopadhyay/  
+- X.com: https://x.com/RounakMukho
 
 ---
 
