@@ -10,7 +10,7 @@ Building things at the intersection of **Machine Learning, Deepfakes, and Medica
 
 ## 🧠 What I'm Doing
 
-- Project Associate @ **IISER Bhopal**  
+- Project Associate I @ **IISER Bhopal**  
 - Working on **Deepfake Detection (Indic Languages)**  
 - Building models for **MRI Spine Degeneration (RSNA)**  
 
@@ -28,18 +28,22 @@ Building things at the intersection of **Machine Learning, Deepfakes, and Medica
 ## 🚀 Projects
 
 ### 🧬 Deepfake Detection
-- Linguistic drift analysis across languages  
-- Robustness & generalization experiments  
+- Studying linguistic drift in generated text  
+- Evaluating robustness across languages  
+- Breaking models to understand them    
 
 ### 🩻 MRI Classification
+- Multi-task model (~25 outputs)  
 - ~78% accuracy | Macro F1 ~0.41  
-- Multi-task pipeline (~25 outputs)  
+- Modular pipeline → extendable to multimodal setups  
 
 ### 🎥 Emotion-aware Video Analysis
-- Timeline visualization using multimodal signals  
+- Timeline-based emotion visualization  
+- Multimodal dataset (user signals + video)  
 
 ### ⚡ Sensor Alignment System
-- Syncing physiological + behavioral data  
+- Syncing physiological + behavioral data streams  
+- Preparing real-world messy data for ML  
 
 ---
 
@@ -53,9 +57,9 @@ Building things at the intersection of **Machine Learning, Deepfakes, and Medica
 
 ## 🎯 Where I'm Heading
 
-- Multimodal Learning  
-- Generative Models  
+- Research in **Multimodal Learning & Generative Models**  
 - PhD in AI/ML (Europe)  
+- Systems that combine **human signals + machine intelligence**  
 
 ---
 
