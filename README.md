@@ -62,7 +62,7 @@ Building things at the intersection of **Machine Learning, Deepfakes, and Medica
 ## 🎯 Where I'm Heading
 
 - Research in **Multimodal Learning & Generative Models**  
-- PhD in AI/ML (Europe)  
+- Research in AI/ML  
 - Systems that combine **human signals + machine intelligence**  
 
 ---
